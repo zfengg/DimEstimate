@@ -3,8 +3,8 @@
 ## The lower bounds of the dimension of Bernoulli convolutions
 
 The complete computational results are stored as 
-- `LowerBounds_DimBC.xlsx`
-- `LowerBounds_DimBC.csv`
+- `LowerBounds_dimBC.xlsx`
+- `LowerBounds_dimBC.csv`
 
 ## Contact
 
