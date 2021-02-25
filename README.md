@@ -1,6 +1,6 @@
 # Data for paper (link or doi here)
 
-## The lower bounds of $\dim \mu_{\beta}$
+## The lower bounds of the dimension of Bernoulli convolutions
 
 The complete computational results are stored as 
 - `LowerBounds_DimBC.xlsx`
