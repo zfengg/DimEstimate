@@ -1,4 +1,5 @@
-# Data for the paper ["Estimates on the dimension of self-similar measures with overlaps"](http://arxiv.org/abs/2103.01700) 
+# [Estimates on the dimension of self-similar measures with overlaps](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12555) 
+[![](https://img.shields.io/badge/doi-10.1112%2Fjlms.12555-grey?labelColor=blue)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12555)
 [![](https://img.shields.io/badge/arXiv-2103.01700-grey?labelColor=red)](https://arxiv.org/abs/2103.01700)
 ## The lower bounds on the dimension of Bernoulli convolutions
 
